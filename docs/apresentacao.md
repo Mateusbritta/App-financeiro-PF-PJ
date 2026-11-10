@@ -28,7 +28,7 @@ Tecnologias: Next.js, React, TypeScript, Tailwind, Supabase (Postgres, Auth, Rea
 
 O que aprendi: usar IA acelera muito, mas o resultado depende de requisitos claros, testes e revisão. Os valores fiscais do MEI são estimativas, então o projeto avisa isso na própria documentação.
 
-📂 Código aberto: [link do repositório]
+📂 Código aberto: https://github.com/Mateusbritta/App-financeiro-PF-PJ
 
 #nextjs #typescript #supabase #IA #opensource #MEI
 
