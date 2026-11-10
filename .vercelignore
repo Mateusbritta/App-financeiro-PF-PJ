@@ -1,0 +1,7 @@
+# Nunca enviar para a Vercel: chaves locais, dependências instaladas e builds locais
+.env
+.env.*
+!.env.example
+node_modules
+.next
+*.tsbuildinfo
